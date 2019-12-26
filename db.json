@@ -2,8 +2,8 @@
  
  {
    "am":[
-  {"id":1,"Symptom ":"xyz","Threat ":"xyz","Recommendation ":"Fsjsj","image":"gdjd"},
-   {"id":2,"Symptom ":"xyz","Threat ":"xyz","Recommendation ":"Fsjsj","image":"gdjd"}],
+  {"week":1,"Symptom ":"xyz","Threat ":"xyz","Recommendation ":"Fsjsj","image":"gdjd"},
+   {"week2":2,"Symptom ":"xyz","Threat ":"xyz","Recommendation ":"Fsjsj","image":"gdjd"}],
   "en":[
   {"id":2,"Symptom ":"xyz","Threat ":"xyz","Recommendation ":"Fsjsj","image":"gdjd"},
         {"id":2,"Symptom ":"xyz","Threat ":"xyz","Recommendation ":"Fsjsj","image":"gdjd"}
