@@ -11,7 +11,15 @@
      "media":1,
     "url":"https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F38%2F2018%2F09%2F12232121%2F13-weeks-pregnant-fetus.jpg&q=85"}]
    },
-   {"id":2,"Symptom ":"xyz","Threat ":"xyz","Recommendation ":"Fsjsj","image":"gdjd"}],
+  {"id":1,"general":
+   [{"title":"","descrbtion":"Every week of your first trimester is full of excitement -- whether you know you're pregnant or not! From when to expect common pregnancy symptoms to what size your baby will be each week, here's everything you need to know about your first trimester of pregnancy.",
+     "media":1,
+    "url":"https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F38%2F2018%2F09%2F12232121%2F13-weeks-pregnant-fetus.jpg&q=85"}],
+   "mother": 
+   [{"title":"Getting ready and ovaluting","descrbtion": "You're actually not pregnant yet—the clock starts ticking from the first day of your last period. So even though pregnancies are said to be  long, you only carry your baby for 38 weeks.",
+     "media":1,
+    "url":"https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F38%2F2018%2F09%2F12232121%2F13-weeks-pregnant-fetus.jpg&q=85"}]
+   }],
   "en":[
   {"id":1,"Symptom ":"xyz","Threat ":"xyz","Recommendation ":"Fsjsj","image":"gdjd"},
         {"id":2,"Symptom ":"xyz","Threat ":"xyz","Recommendation ":"Fsjsj","image":"gdjd"}
