@@ -26,6 +26,56 @@
   {"id":2,"general":[],
    "mother":[],
    "baby":[]}
-   ]
+   ],
+ "syn": [
+    {
+        "Keyword": "Missed period",
+        "Detail": "If you're in your childbearing years and a week or more has passed without the start of an expected menstrual cycle, you might be pregnant. However, this symptom can be misleading if you have an irregular menstrual cycle."
+    },
+    {
+        "Keyword": "Tender, swollen breasts",
+        "Detail": "Early in pregnancy hormonal changes might make your breasts sensitive and sore. The discomfort will likely decrease after a few weeks as your body adjusts to hormonal changes."
+    },
+    {
+        "Keyword": "Nausea with or without vomiting",
+        "Detail": "Morning sickness, which can strike at any time of the day or night, often begins one month after you become pregnant. However, some women feel nausea earlier and some never experience it. While the cause of nausea during pregnancy isn't clear, pregnancy hormones likely play a role."
+    },
+    {
+        "Keyword": "Fatigue",
+        "Detail": "Fatigue also ranks high among early symptoms of pregnancy. During early pregnancy, levels of the hormone progesterone soar � which might make you feel sleepy."
+    },
+    {
+        "Keyword": "Increased urination",
+        "Detail": "You might find yourself urinating more often than usual. The amount of blood in your body increases during pregnancy, causing your kidneys to process extra fluid that ends up in your bladder."
+    },
+    {
+        "Keyword": "Bloating",
+        "Detail": "Hormonal changes during early pregnancy can cause you to feel bloated, similar to how you might feel at the start of a menstrual period."
+    },
+    {
+        "Keyword": "Moodiness",
+        "Detail": "The flood of hormones in your body in early pregnancy can make you unusually emotional and weepy. Mood swings also are common."
+    },
+    {
+        "Keyword": "Cramping",
+        "Detail": "Some women experience mild uterine cramping early in pregnancy."
+    },
+    {
+        "Keyword": "Light spotting",
+        "Detail": " Sometimes a small amount of light spotting is one of the first signs of pregnancy. Known as implantation bleeding, it happens when the fertilized egg attaches to the lining of the uterus � about 10 to 14 days after conception. Implantation bleeding occurs around the time of a menstrual period. However, not all women have it."
+    },
+    {
+        "Keyword": "Constipation",
+        "Detail": "Hormonal changes cause your digestive system to slow down, which can lead to constipation."
+    },
+    {
+        "Keyword": "Food aversions",
+        "Detail": "When you're pregnant, you might become more sensitive to certain odors and your sense of taste might change. Like most other symptoms of pregnancy, these food preferences can be chalked up to hormonal changes."
+    },
+    {
+        "Keyword": "Nasal congestion",
+        "Detail": "Increasing hormone levels and blood production can cause the mucous membranes in your nose to swell, dry out and bleed easily. This might cause you to have a stuffy or runny nose."
+    }
+]
     
     }
